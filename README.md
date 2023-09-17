@@ -2,7 +2,7 @@
 
 ### Language Translator for Text Translation, Fast And Smart AI Translate App.<br/>
 
-<a href='[https://play.google.com/store/apps/details?id=com.smart.photo.enlarge.upscale.enhancer](https://play.google.com/store/apps/details?id=com.smart.translate.language.translator)&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height="100" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.smart.translate.language.translator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height="100" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
 ### Screenshots
 <p>
